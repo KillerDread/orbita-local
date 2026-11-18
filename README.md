@@ -40,7 +40,3 @@ Si compartes el código en un repositorio, distribuye `.env.example`, nunca `.en
 - [OAuth 2.0 PKCE de X](https://docs.x.com/fundamentals/authentication/oauth-2-0/authorization-code)
 - [Endpoint de cuentas seguidas](https://docs.x.com/x-api/users/get-following)
 - [Precios y créditos de X API](https://docs.x.com/x-api/getting-started/pricing)
-
-## Licencia
-
-MIT. Consulta `LICENSE`.
